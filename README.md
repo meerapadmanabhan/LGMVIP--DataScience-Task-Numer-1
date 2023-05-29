@@ -47,8 +47,11 @@ Classification models can be used to predict the dependent variable (class of ea
 |   Support Vector Machine|     91    |
 |   Logistic Regression   |     84    |
 
+## RESULT
 Comparing the scores and accuarcy of each model, it is seen the Decision Tree classification algorithm provides the highest accuracy for this problem using the Iris Data Set.
 
-## RESULT
-It is always the best practice to train the model using the complete dataset i.e. not to waste any part of the available data. Thus, the complete dataset was modelled using Decision Tree Classifier. Let us visualize the tree:
+## CONCLUSION
+The purpose of this project was to compare different classification algorithms to predict the class of the iris flowers. Find and compare the accuracy of each model to find the best classifier. Finally train the model using the complete dataset.
+
+The final_model computed here can be used to predict the class of the iris flowers as Iris Setosa (or) Iris Versicolour (or) Iris Virginica given its attribute information namely the sepal length, sepal width, petal length and petal width values in centimeter
 
