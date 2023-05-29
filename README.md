@@ -55,3 +55,4 @@ The purpose of this project was to compare different classification algorithms t
 
 The final_model computed here can be used to predict the class of the iris flowers as Iris Setosa (or) Iris Versicolour (or) Iris Virginica given its attribute information namely the sepal length, sepal width, petal length and petal width values in centimeter
 
+-- ## MEERA P V
