@@ -49,6 +49,7 @@ Classification models can be used to predict the dependent variable (class of ea
 
 ## RESULT
 Comparing the scores and accuarcy of each model, it is seen the Decision Tree classification algorithm provides the highest accuracy for this problem using the Iris Data Set.
+![Decision_tree](C:\Users\meera\Projects\iris_flower_tree.png)
 
 ## CONCLUSION
 The purpose of this project was to compare different classification algorithms to predict the class of the iris flowers. Find and compare the accuracy of each model to find the best classifier. Finally train the model using the complete dataset.
